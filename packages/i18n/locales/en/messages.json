@@ -1,11 +1,11 @@
 {
   "extensionDescription": {
-    "description": "Extension description",
-    "message": "Chrome extension boilerplate developed with Vite, React and Typescript"
+    "description": "Retry automatically when your DeepSeek dialog sending request failure.",
+    "message": "Retry automatically when your DeepSeek dialog sending request failure."
   },
   "extensionName": {
-    "description": "Extension name",
-    "message": "Chrome extension boilerplate"
+    "description": "DeepSeek auto repeat",
+    "message": "Retry automatically when your DeepSeek dialog sending request failure."
   },
   "toggleTheme": {
     "message": "Toggle theme"

@@ -10,13 +10,13 @@
 ![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![](https://badges.aleen42.com/src/vitejs.svg)
 
-![GitHub action badge](https://github.com/Jonghakseo/deepseek-auto-repeat/actions/workflows/build-zip.yml/badge.svg)
-![GitHub action badge](https://github.com/Jonghakseo/deepseek-auto-repeat/actions/workflows/lint.yml/badge.svg)
+![GitHub action badge](https://github.com/gweesin/deepseek-auto-retry/actions/workflows/build-zip.yml/badge.svg)
+![GitHub action badge](https://github.com/gweesin/deepseek-auto-retry/actions/workflows/lint.yml/badge.svg)
 
 <a href="https://discord.gg/4ERQ6jgV9a" target="_blank"><img src="https://discord.com/api/guilds/1263404974830915637/widget.png"/></a>
 
 > This boilerplate
-> has [Legacy version](https://github.com/Jonghakseo/deepseek-auto-repeat/tree/legacy)
+> has [Legacy version](https://github.com/gweesin/deepseek-auto-retry/tree/legacy)
 
 </div>
 
@@ -75,7 +75,7 @@ the build speed and development experience by using Vite and Turborepo.
 
 ## Installation
 
-1. Clone this repository.( ```git clone https://github.com/Jonghakseo/deepseek-auto-repeat``` )
+1. Clone this repository.( ```git clone https://github.com/gweesin/deepseek-auto-retry``` )
 2. Ensure your node version is >= than in `.nvmrc` file, recommend to use [nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#intro)
 3. Edit `/packages/i18n/locales/`{your locale(s)}/`messages.json`
 4. In the objects `extensionDescription` and `extensionName`, change the `message` fields (leave `description` alone)
@@ -107,7 +107,7 @@ the build speed and development experience by using Vite and Turborepo.
 
 1. Run:
     - Dev: `pnpm dev` (on Windows, you should run as administrator;
-      see [issue#456](https://github.com/Jonghakseo/deepseek-auto-repeat/issues/456))
+      see [issue#456](https://github.com/gweesin/deepseek-auto-retry/issues/456))
     - Prod: `pnpm build`
 2. Open in browser - `chrome://extensions`
 3. Check - <kbd>Developer mode</kbd>
@@ -217,9 +217,9 @@ Other useful packages:
 If saving source files doesn't cause the extension HMR code to trigger a reload of the browser page, try this:
 
 1. Ctrl+C the development server and restart it (`pnpm run dev`)
-2. If you get a [`grpc` error](https://github.com/Jonghakseo/deepseek-auto-repeat/issues/612),
+2. If you get a [`grpc` error](https://github.com/gweesin/deepseek-auto-retry/issues/612),
    [kill the
-   `turbo` process](https://github.com/Jonghakseo/deepseek-auto-repeat/issues/612#issuecomment-2518982339)
+   `turbo` process](https://github.com/gweesin/deepseek-auto-retry/issues/612#issuecomment-2518982339)
    and run `pnpm dev` again.
 
 ### Imports not resolving correctly
@@ -247,11 +247,11 @@ If you're debugging one, you can use [Brie](https://go.briehq.com/github?utm_sou
 
 ## Star History <a name="star-history"></a>
 
-<a href="https://star-history.com/#Jonghakseo/deepseek-auto-repeat&Date">
+<a href="https://star-history.com/#gweesin/deepseek-auto-retry&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Jonghakseo/deepseek-auto-repeat&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Jonghakseo/deepseek-auto-repeat&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Jonghakseo/deepseek-auto-repeat&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=gweesin/deepseek-auto-retry&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=gweesin/deepseek-auto-retry&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=gweesin/deepseek-auto-retry&type=Date" />
  </picture>
 </a>
 
@@ -259,8 +259,8 @@ If you're debugging one, you can use [Brie](https://go.briehq.com/github?utm_sou
 
 This Boilerplate is made possible thanks to all of its contributors.
 
-<a href="https://github.com/Jonghakseo/deepseek-auto-repeat/graphs/contributors">
-  <img width="500px" src="https://contrib.rocks/image?repo=Jonghakseo/deepseek-auto-repeat" alt="All Contributors"/>
+<a href="https://github.com/gweesin/deepseek-auto-retry/graphs/contributors">
+  <img width="500px" src="https://contrib.rocks/image?repo=gweesin/deepseek-auto-retry" alt="All Contributors"/>
 </a>
 
 ---
@@ -272,4 +272,4 @@ This Boilerplate is made possible thanks to all of its contributors.
 
 ---
 
-Made by [Jonghakseo](https://jonghakseo.github.io/)
+Made by [gweesin](https://jonghakseo.github.io/)
