@@ -1,11 +1,11 @@
 {
   "extensionDescription": {
-    "description": "Retry automatically when your DeepSeek dialog sending request failure.",
-    "message": "Retry automatically when your DeepSeek dialog sending request failure."
+    "description": "Retry automatically when your DeepSeek dialog sends request failure.",
+    "message": "Retry automatically when your DeepSeek dialog sends request failure."
   },
   "extensionName": {
     "description": "DeepSeek auto repeat",
-    "message": "Retry automatically when your DeepSeek dialog sending request failure."
+    "message": "Retry automatically when your DeepSeek dialog sends request failure."
   },
   "toggleTheme": {
     "message": "Toggle theme"

@@ -1,7 +1,7 @@
 {
   "name": "deepseek-auto-retry",
   "version": "0.5.0",
-  "description": "Retry automatically when your DeepSeek dialog sending request failure.",
+  "description": "Retry automatically when your DeepSeek dialog sends request failure.",
   "license": "MIT",
   "private": true,
   "sideEffects": false,

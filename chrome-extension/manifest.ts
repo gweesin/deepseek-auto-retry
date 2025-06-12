@@ -29,7 +29,7 @@ const manifest = {
     },
   },
   version: packageJson.version,
-  description: 'Retry automatically when your DeepSeek dialog sending request failure.',
+  description: 'Retry automatically when your DeepSeek dialog sends request failure.',
   host_permissions: ['https://chat.deepseek.com/a/chat/*'],
   permissions: ['storage', 'scripting', 'tabs', 'notifications', 'scripting', 'activeTab'],
   background: {

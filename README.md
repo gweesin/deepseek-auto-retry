@@ -13,29 +13,19 @@
 ![GitHub action badge](https://github.com/gweesin/deepseek-auto-retry/actions/workflows/build-zip.yml/badge.svg)
 ![GitHub action badge](https://github.com/gweesin/deepseek-auto-retry/actions/workflows/lint.yml/badge.svg)
 
-<a href="https://discord.gg/4ERQ6jgV9a" target="_blank"><img src="https://discord.com/api/guilds/1263404974830915637/widget.png"/></a>
-
-> This boilerplate
-> has [Legacy version](https://github.com/gweesin/deepseek-auto-retry/tree/legacy)
-
 </div>
 
 > [!NOTE]
-> This project is listed in the [Awesome Vite](https://github.com/vitejs/awesome-vite)
+> This repo still WIP now, and it is the MVP version, which is welcome to use and advance.
 
-> [!TIP]
-> Share storage state between all pages
->
-> https://github.com/user-attachments/assets/3b8e189f-6443-490e-a455-4f9570267f8c
+## Example
+
+![video](./assets/video.mp4)
 
 ## Table of Contents
 
 - [Intro](#intro)
 - [Features](#features)
-- [Structure](#structure)
-    - [ChromeExtension](#structure-chrome-extension)
-    - [Packages](#structure-packages)
-    - [Pages](#structure-pages)
 - [Installation](#installation)
     - [Chrome](#installation-chrome)
     - [Firefox](#installation-firefox)
@@ -56,8 +46,7 @@
 
 ## Intro
 
-This boilerplate helps you create Chrome/Firefox extensions using React and Typescript. It improves
-the build speed and development experience by using Vite and Turborepo.
+Retry automatically when your DeepSeek dialog sends request failure.
 
 ## Features
 
@@ -260,7 +249,7 @@ If you're debugging one, you can use [Brie](https://go.briehq.com/github?utm_sou
 This Boilerplate is made possible thanks to all of its contributors.
 
 <a href="https://github.com/gweesin/deepseek-auto-retry/graphs/contributors">
-  <img width="500px" src="https://contrib.rocks/image?repo=gweesin/deepseek-auto-retry" alt="All Contributors"/>
+  <img width="100px" src="https://contrib.rocks/image?repo=gweesin/deepseek-auto-retry" alt="All Contributors"/>
 </a>
 
 ---
