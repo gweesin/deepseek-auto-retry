@@ -20,7 +20,8 @@
 
 ## Example
 
-https://github.com/gweesin/deepseek-auto-retry/blob/main/assets/video.mp4
+> [!TIP]
+> https://github.com/gweesin/deepseek-auto-retry/blob/main/assets/video.mp4
 
 ## Table of Contents
 
