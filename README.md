@@ -20,7 +20,7 @@
 
 ## Example
 
-![video](./assets/video.mp4)
+https://github.com/gweesin/deepseek-auto-retry/blob/main/assets/video.mp4
 
 ## Table of Contents
 
